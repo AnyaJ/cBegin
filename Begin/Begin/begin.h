@@ -6,3 +6,5 @@ using namespace std;
 void begin1();
 
 void begin2();
+
+void begin8();

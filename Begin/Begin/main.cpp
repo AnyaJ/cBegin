@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "russian");
-	begin1();
+	begin8();
 	return 0;
 }
