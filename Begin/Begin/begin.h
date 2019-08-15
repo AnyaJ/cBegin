@@ -8,3 +8,5 @@ void begin1();
 void begin2();
 
 void begin8();
+
+void begin12();

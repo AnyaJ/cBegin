@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="begin1.cpp" />
+    <ClCompile Include="begin12.cpp" />
     <ClCompile Include="begin2.cpp" />
     <ClCompile Include="begin8.cpp" />
     <ClCompile Include="main.cpp" />
